@@ -1,0 +1,15 @@
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.csproj.AssemblyReference.cache
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.AssemblyInfoInputs.cache
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.AssemblyInfo.cs
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.csproj.CoreCompileInputs.cache
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\bin\Debug\net6.0\taller1.exe
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\bin\Debug\net6.0\taller1.deps.json
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\bin\Debug\net6.0\taller1.runtimeconfig.json
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\bin\Debug\net6.0\taller1.dll
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\bin\Debug\net6.0\taller1.pdb
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.dll
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\refint\taller1.dll
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.pdb
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\taller1.genruntimeconfig.cache
+C:\ALMACENAMIENTO\pc\Documentos\Proyectos\C#\taller1\obj\Debug\net6.0\ref\taller1.dll
